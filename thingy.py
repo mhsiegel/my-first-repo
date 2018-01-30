@@ -1,2 +1,2 @@
-hello world
-adding new stuff  
+print('hello world')
+print('adding new stuff')
